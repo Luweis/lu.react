@@ -1,0 +1,22 @@
+/npm-debug.log
+/node_modules
+/dist
+*.xml
+# Logs
+logs
+*.log
+# Runtime data
+pids
+*.pid
+*.seed
+*.idea
+*.DS_Store
+.*.swp
+.*.swo
+*~
+*.bak
+*_bak
+*.log
+nohup.out
+.vscode/
+.flowconfig
